@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/budicons/budicon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/budicons/budicon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/budicons/budicon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/elemis/elemis.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/elemis/elemis.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/elemis/elemis.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-circle.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-circle.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-circle.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-social.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-social.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-social.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/about/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/about/rs2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/add-inc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/asmayda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/borges.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/claro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/creme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/crescent-heights.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/dds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/double-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/epic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/florida-international-university.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/four-points.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/guyandgirl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/hilton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/hitt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/hospitality-desing-consultants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/ibt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/kobi-karp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/live-nation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/marriott.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/menin-hotels.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/mi-call.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/mondrian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/porfirios-restaurante.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/sanctuary-south-beach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/shelborne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/staarchitectural-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/stellar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/the-breakers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/the-fillmore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/the-parker-company.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/the-ritz-carlton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/viceroy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/wade-allyn-hallock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/weitz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/westing-hotel-resorts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/brands/wyndham.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/coins/bit-coin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/gallery/architectural-arts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/gallery/custom-woodwork.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/gallery/installation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/gallery/preconstruction-services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/logo/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/logo/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/parallax/carpentry.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-3-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-3-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-7-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-3-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-6-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-4-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-01-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-2-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-1-400x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/menin-hotel-office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/preconstruction-services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/shelborne-lounge-bar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/the-conrad-hotel-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider-home/vesper-restaurant-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/slider/slider7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/team.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/team/julio-lee-project-manager.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/team/nelson-paredes-ceo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/team/role1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/team/role2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/about.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/author.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/blog1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/blog2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/ceo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/mock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p1-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p10-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p11-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p12-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p13-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p14-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p15-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p16-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p17-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p18-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p2-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p3-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p4-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p5-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p6-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p7-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p8-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p9-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/page-title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp4-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp4-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-1-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-10-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-11-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-12-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-13-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-14-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-15-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-16-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-2-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-3-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-4-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-5-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-6-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-7-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-8-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-9-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/product.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/s1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/s2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slider-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slider-woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/budicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-arrows@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-bag@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-basket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-basket@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-board.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-board@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-book@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-box@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-browser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-browser@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calculator@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calendar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-camera@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-card@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-clock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-cloud@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-coffee@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-comment@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-compas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-compas@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-count.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-count@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-disk@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-diskette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-diskette@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-download@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-drop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-film@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-flag@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-graph@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-heart@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-help@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-home@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-iu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-iu@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-letter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-letter@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-lock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-mail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-money@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-music@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-news.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-news@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-notes@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-officephone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-officephone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-openmail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-openmail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-photo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-portfolio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-portfolio@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-print@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-radio@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ribbon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-safe@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-search@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-shop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-shop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-statistics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-statistics@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tablet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tablet@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ticket@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-truck@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tv@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-upload@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-user@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-view@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-voicemail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-voicemail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-wallet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-wallet@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-weather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-weather@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-web@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-worldmap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-worldmap@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/logo-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/map-pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Website.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/aqua.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/gray.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/lime.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/mint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/navy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/rose.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/color/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/frontend.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/icons/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/plugins/plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/css/style/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/budicons/budicon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/elemis/elemis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello-social.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/fontello/fontello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/images/theme/zigzag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/frontend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/clients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/testimonials.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="287" column="45" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="302" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#9037#9042#0#HTML" expanded="true" />
+                <element signature="e#11942#11948#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="85" column="51" lean-forward="false" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+              <folding>
+                <element signature="e#1793#1821#0#HTML" expanded="true" />
+                <element signature="e#1944#1969#0#HTML" expanded="true" />
+                <element signature="e#2808#2836#0#HTML" expanded="true" />
+                <element signature="e#2921#2944#0#HTML" expanded="true" />
+                <element signature="e#3245#3273#0#HTML" expanded="true" />
+                <element signature="e#3353#3376#0#HTML" expanded="true" />
+                <element signature="e#5668#5673#0#HTML" expanded="true" />
+                <element signature="e#7965#7971#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="110" lean-forward="false" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>style</find>
+      <find>home</find>
+      <find>car</find>
+      <find>Fea</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lignumcd</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lignumcd/static/js/frontend.js" />
+        <option value="$PROJECT_DIR$/Website/settings.py" />
+        <option value="$PROJECT_DIR$/lignumcd/views.py" />
+        <option value="$PROJECT_DIR$/Website/urls.py" />
+        <option value="$PROJECT_DIR$/templates/1.html" />
+        <option value="$PROJECT_DIR$/templates/clients.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/portfolio.html" />
+        <option value="$PROJECT_DIR$/templates/testimonials.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website" type="462c0819:PsiDirectoryNode" />
+              <item name="Website" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Website">
+    <configuration name="Website" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Website.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Website" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="" />
+      <created>1501091495456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501091495456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1021" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33005464" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15485278" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1253">
+          <caret line="12631" column="20" lean-forward="false" selection-start-line="12631" selection-start-column="20" selection-end-line="12631" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1501160391918" expanded="true" signature="257351:257371" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="419676:419717" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="421385:421422" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="578068:578104" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="578381:578405" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="585552:585589" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="616606:616612" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616612:616618" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616618:616624" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616763:616769" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616769:616775" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616775:616781" ph=" " />
+            <marker date="1501160391918" expanded="true" signature="616858:616887" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="620279:620355" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="620524:620562" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="621818:621885" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="627583:627600" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="647570:647583" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="674016:674057" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="674145:674181" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="674345:674381" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="675050:675073" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="676634:676823" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="677068:677078" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="679099:679215" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="679285:679389" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="679403:679646" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="680686:680825" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="680857:680967" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="680981:681220" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="681583:681605" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="681936:682061" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="682093:682195" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="682209:682448" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="682811:682834" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="716167:716208" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="716591:716630" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="716728:716767" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="716938:716974" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="747183:747197" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="747307:747345" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="747654:747668" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="747780:747818" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="751048:751197" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="758955:759012" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="827458:827526" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="827568:827767" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="834635:834701" ph="..." />
+            <marker date="1501160391918" expanded="true" signature="840510:840714" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lignumcd/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <element signature="e#641#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="287" column="45" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="302" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#9037#9042#0#HTML" expanded="true" />
+            <element signature="e#11942#11948#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="85" column="51" lean-forward="false" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+          <folding>
+            <element signature="e#1793#1821#0#HTML" expanded="true" />
+            <element signature="e#1944#1969#0#HTML" expanded="true" />
+            <element signature="e#2808#2836#0#HTML" expanded="true" />
+            <element signature="e#2921#2944#0#HTML" expanded="true" />
+            <element signature="e#3245#3273#0#HTML" expanded="true" />
+            <element signature="e#3353#3376#0#HTML" expanded="true" />
+            <element signature="e#5668#5673#0#HTML" expanded="true" />
+            <element signature="e#7965#7971#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="110" lean-forward="false" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
