@@ -2,11 +2,12 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
-
+from django.core.mail import send_mail
 # Create your views here.
 
 
 def index(request):
+
     return render(request, "index.html")
 
 
@@ -32,3 +33,5 @@ def clients(request):
 
 def contact(request):
     return render(request, "contact.html")
+
+

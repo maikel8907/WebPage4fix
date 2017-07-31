@@ -122,3 +122,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #TEMPLATE_DIRS = (os.path.join(BASE_DIR,  'templates'),)
+
+
+EMAIL_HOST = 'localhost'
+EMAIL_PORT = 8025
+
+#python -m smtpd -n -c DebuggingServer localhost:8025
