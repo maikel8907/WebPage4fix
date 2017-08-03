@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/1.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap.css" afterPath="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lignumcd/static/css/frontend.css" afterPath="$PROJECT_DIR$/lignumcd/static/css/frontend.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lignumcd/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/lignumcd/static/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/about.html" afterPath="$PROJECT_DIR$/templates/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/clients.html" afterPath="$PROJECT_DIR$/templates/clients.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/contact.html" afterPath="$PROJECT_DIR$/templates/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lignumcd/static/css/style/style.css" afterPath="$PROJECT_DIR$/lignumcd/static/css/style/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/portfolio.html" afterPath="$PROJECT_DIR$/templates/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/testimonials.html" afterPath="$PROJECT_DIR$/templates/testimonials.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/templates/clients.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1830">
-              <caret line="122" column="14" lean-forward="true" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+              <caret line="122" column="14" lean-forward="false" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
               <folding>
                 <element signature="e#347#369#0#HTML" expanded="true" />
                 <element signature="e#494#514#0#HTML" expanded="true" />
@@ -123,6 +115,28 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="24" column="107" lean-forward="true" selection-start-line="24" selection-start-column="107" selection-end-line="24" selection-end-column="107" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontend.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lignumcd/static/css/frontend.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="7306" column="18" lean-forward="true" selection-start-line="7306" selection-start-column="18" selection-end-line="7306" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,12 +147,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="531">
-              <caret line="88" column="14" lean-forward="true" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+              <caret line="88" column="14" lean-forward="false" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lignumcd/static/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4739" lean-forward="false" selection-start-line="6" selection-start-column="4739" selection-end-line="6" selection-end-column="4739" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +193,7 @@
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -186,7 +212,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mail</find>
       <find>fullscreen-container</find>
       <find>tp-caption</find>
       <find>fullscreenvideo</find>
@@ -196,26 +221,27 @@
       <find>light</find>
       <find>light-wrapper</find>
       <find>carousel clients</find>
-      <find>clients</find>
       <find>Transition</find>
       <find>.slide</find>
-      <find>.carousel</find>
       <find>data-interval=</find>
       <find>interval=</find>
       <find>slideSpeed</find>
       <find>navbar-collapse</find>
-      <find>client</find>
       <find>first.animate</find>
       <find>clientca</find>
-      <find>carousel</find>
       <find>data-interval</find>
-      <find>carousel-wrapper</find>
       <find>carousel.settings</find>
       <find>perscroll:</find>
       <find>(var i=0;i&lt;2;i++)</find>
       <find>$('.carousel .item')</find>
       <find>@media</find>
       <find>(min-width: 768px)</find>
+      <find>.carousel.</find>
+      <find>.carousel</find>
+      <find>carousel-wrapper</find>
+      <find>client</find>
+      <find>clients</find>
+      <find>carousel</find>
     </findStrings>
     <replaceStrings>
       <replace>lignumcd</replace>
@@ -232,16 +258,18 @@
         <option value="$PROJECT_DIR$/Website/settings.py" />
         <option value="$PROJECT_DIR$/lignumcd/views.py" />
         <option value="$PROJECT_DIR$/templates/portfolio.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/lignumcd/static/css/frontend.css" />
         <option value="$PROJECT_DIR$/lignumcd/static/css/bootstrap/bootstrap.css" />
         <option value="$PROJECT_DIR$/lignumcd/static/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/lignumcd/static/js/frontend.js" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/testimonials.html" />
         <option value="$PROJECT_DIR$/templates/clients.html" />
         <option value="$PROJECT_DIR$/templates/contact.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/lignumcd/static/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/lignumcd/static/css/style/style.css" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/lignumcd/static/js/frontend.js" />
+        <option value="$PROJECT_DIR$/lignumcd/static/css/frontend.css" />
       </list>
     </option>
   </component>
@@ -376,10 +404,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -398,7 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.Website">
+  <component name="RunManager">
     <configuration name="Website" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,6 +463,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501091495456</updated>
+      <workItem from="1501781872551" duration="893000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1501185018617</created>
@@ -483,8 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501704146482</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All content completed">
+      <created>1501780881427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501780881427</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,11 +555,25 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33005464" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15485278" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -554,21 +609,14 @@
     <MESSAGE value="Some nav issues fixed" />
     <MESSAGE value="About page added" />
     <MESSAGE value="Portfolio Page Finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Portfolio Page Finish" />
+    <MESSAGE value="All content completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="All content completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1253">
@@ -580,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <element signature="e#641#671#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,7 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
           <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,9 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,7 +770,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -737,24 +780,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3225">
-          <caret line="215" column="14" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="215" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
     <entry file="file://$PROJECT_DIR$/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
@@ -775,7 +808,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -783,7 +818,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -798,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,9 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,9 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <element signature="e#641#671#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,13 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="215" column="14" lean-forward="true" selection-start-line="202" selection-start-column="4" selection-end-line="215" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
     <entry file="file://$PROJECT_DIR$/templates/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -946,7 +970,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -954,7 +980,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1860">
           <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -962,26 +990,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <element signature="e#641#671#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
     <entry file="file://$PROJECT_DIR$/lignumcd/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,18 +1005,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
           <caret line="129" column="53" lean-forward="false" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/block.rnc" />
     <entry file="file://$PROJECT_DIR$/lignumcd/static/images/theme/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1010,37 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8348">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lignumcd/static/css/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1536" column="1" lean-forward="false" selection-start-line="1536" selection-start-column="1" selection-end-line="1536" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lignumcd/static/css/frontend.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="6940" column="27" lean-forward="true" selection-start-line="6940" selection-start-column="27" selection-end-line="6940" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="6698" column="25" lean-forward="false" selection-start-line="6698" selection-start-column="7" selection-end-line="6698" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,19 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="300" column="64" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2365" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1969">
-          <caret line="6651" column="18" lean-forward="true" selection-start-line="6651" selection-start-column="18" selection-end-line="6651" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,7 +1054,7 @@
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1106,10 +1069,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="88" column="14" lean-forward="false" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lignumcd/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4739" lean-forward="false" selection-start-line="6" selection-start-column="4739" selection-end-line="6" selection-end-column="4739" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="71" column="102" lean-forward="false" selection-start-line="71" selection-start-column="102" selection-end-line="71" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lignumcd/static/css/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1537" column="17" lean-forward="false" selection-start-line="1537" selection-start-column="1" selection-end-line="1537" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lignumcd/static/css/frontend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7306" column="18" lean-forward="true" selection-start-line="7306" selection-start-column="18" selection-end-line="7306" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/clients.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1830">
-          <caret line="122" column="14" lean-forward="true" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+          <caret line="122" column="14" lean-forward="false" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
           <folding>
             <element signature="e#347#369#0#HTML" expanded="true" />
             <element signature="e#494#514#0#HTML" expanded="true" />
@@ -1187,19 +1191,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+    <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="71" column="102" lean-forward="false" selection-start-line="71" selection-start-column="102" selection-end-line="71" selection-end-column="102" />
-          <folding />
+        <state relative-caret-position="268">
+          <caret line="8049" column="34" lean-forward="false" selection-start-line="8049" selection-start-column="26" selection-end-line="8049" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="88" column="14" lean-forward="true" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="142">
+          <caret line="24" column="107" lean-forward="true" selection-start-line="24" selection-start-column="107" selection-end-line="24" selection-end-column="107" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
