@@ -15069,7 +15069,7 @@ footer ul.circled li:before {
 }
 
 .navbar.solid .dropdown-menu:not(.yamm-dropdown-menu) li, .navbar.no-opacity .dropdown-menu:not(.yamm-dropdown-menu) li {
-    background: #1f2124
+    background: #1f2124;
 }
 
 .navbar .dropdown-menu li:first-child {
@@ -15158,7 +15158,7 @@ footer ul.circled li:before {
 }
 
 .navbar.light .top-bar {
-    color: #606060
+    color: #606060;
 }
 
 .navbar .top-bar ul {
@@ -15285,7 +15285,7 @@ footer ul.circled li:before {
 }
 
 .yamm .yamm-content h1, .yamm .yamm-content h2, .yamm .yamm-content h3, .yamm .yamm-content h4, .yamm .yamm-content h5, .yamm .yamm-content h6 {
-    color: #FFF
+    color: #FFFFFF;
 }
 
 .yamm .yamm-content h4 {
@@ -15347,7 +15347,7 @@ footer ul.circled li:before {
 }
 
 .box {
-    background: #fff;
+    background: #FFFFFF;
     padding: 25px 30px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.08);
     transition: all 200ms ease-in

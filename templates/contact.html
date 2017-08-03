@@ -12,7 +12,82 @@
 {% endblock %}
 
 {% block body %}
-
-
-
+    >
+    <div class="offset"></div>
+    <div class="dark-wrapper">
+        <div class="container inner">
+            <div class="thin"><h2 class="post-title">
+                Get in Touch
+            </h2>
+                <div class="divide50"></div>
+                <div class="row text-center text-boxes">
+                    <div class="col-sm-4 wow fadeInUp" data-wow-duration="1s">
+                        <div class="icon bm20"><img src="{% static "/images/theme/icons/icon-worldmap.png"%}"
+                                                    data-src="{% static "/images/theme/icons/icon-worldmap.png"%}"
+                                                    data-ret="{% static "/images/theme/icons/icon-worldmap@2x.png"%}"
+                                                    class="retina" alt=""/></div>
+                        <p>
+                            7010 SW 4th St, Miami, FL 33144
+                        </p></div>
+                    <div class="col-sm-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <div class="icon bm20"><img src="{% static "/images/theme/icons/icon-officephone.png"%}"
+                                                    data-src="{% static "/images/theme/icons/icon-officephone.png"%}"
+                                                    data-ret="{% static "/images/theme/icons/icon-officephone@2x.png"%}"
+                                                    class="retina" alt=""/></div>
+                        <p><abbr title="Phone">P:</abbr>
+                            (786) 472-1833 <BR><abbr title="Fax">F:</abbr>
+                            305-397-2204
+                        </p></div>
+                    <div class="col-sm-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+                        <div class="icon bm20"><img src="{% static "/images/theme/icons/icon-openmail.png"%}"
+                                                    data-src="{% static "/images/theme/icons/icon-openmail.png"%}"
+                                                    data-ret="{% static "/images/theme/icons/icon-openmail@2x.png"%}"
+                                                    class="retina" alt=""/></div>
+                        <p><a class="nocolor" href="mailto:#">
+                            info@lignumcd.com
+                        </a></p></div>
+                </div>
+                <div class="divide10"></div>
+                <div class="form-container">
+                    <form action="#"
+                          method="post" class="vanilla vanilla-form"
+                          novalidate="novalidate">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-field"><label><input type="text" name="name" placeholder="Your name"
+                                                                      required="required"><i
+                                        class="icon-user"></i></label></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-field"><label><input type="email" name="email"
+                                                                      placeholder="Your e-mail" required="required"><i
+                                        class="icon-mail-alt"></i></label></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-field"><label><input type="tel" name="tel" placeholder="Phone"><i
+                                        class="icon-phone"></i></label></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-field"><label class="custom-select"><select name="department"
+                                                                                             required="required">
+                                    <option value="">Select Department</option>
+                                    <option value="Sales">Sales</option>
+                                    <option value="Other">Other</option>
+                                </select><i class="icon-ok"></i><span></span></label></div>
+                            </div>
+                        </div>
+                        <textarea name="message" placeholder="Type your message here..."></textarea>
+                        <div class="radio-set"><label>Subject:</label><label><input type="radio" name="subject"
+                                                                                    value="General"><span></span>
+                            General
+                        </label><label><input type="radio" name="subject" value="Hi"><span></span> Say Hi
+                        </label><label><input type="radio" name="subject" value="Other"><span></span> Other
+                        </label></div>
+                        <input type="submit" class="btn" value="Send" data-error="Fix errors"
+                               data-processing="Sending..." data-success="Thank you!">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}
