@@ -18118,6 +18118,7 @@ function revslider_showDoubleJqueryError(b) {
         loop: true,
         margin: 20,
         nav: false,
+        interval:0,
         dots: false,
         responsive: {0: {items: 3}, 768: {items: 5}, 1200: {items: 6}}
     });
@@ -18132,7 +18133,7 @@ function revslider_showDoubleJqueryError(b) {
     });
     a(".basic-slider").owlCarousel({items: 1, nav: true, navText: ["", ""], dots: true, loop: true, margin: 0});
     a(".basic-carousel").owlCarousel({
-        items: 3,
+        items: 4,
         nav: true,
         navText: ["", ""],
         dots: false,
