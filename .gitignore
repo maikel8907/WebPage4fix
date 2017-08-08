@@ -58,6 +58,6 @@ target/
 
 .project
 .pydevproject
-lignumcd/static/images
+[lignumcd/static/images/*]
 db.sqlite3
 .idea/dataSources/

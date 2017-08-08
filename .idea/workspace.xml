@@ -2,10 +2,599 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="83281dd1-4e76-4f60-b5c2-22d1a50133db" name="Added Balloon" comment="" />
-    <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="Added Balloon">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery.balloon.js" />
+    <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/slick/slick.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/about/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/about/rs2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/about/rs2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/add-inc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/asmayda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/borges.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/claro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/creme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/crescent-heights.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/dds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/double-tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/epic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/florida-international-university.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/four-points.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/guyandgirl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/hilton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/hitt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/hospitality-desing-consultants.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/ibt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/kobi-karp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/live-nation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/marriott.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/menin-hotels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/mi-call.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/mondrian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/porfirios-restaurante.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/sanctuary-south-beach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/shelborne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/staarchitectural-group.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/stellar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/the-breakers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/the-fillmore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/the-parker-company.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/the-ritz-carlton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/viceroy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/wade-allyn-hallock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/weitz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/westing-hotel-resorts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/brands/wyndham.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/coins/bit-coin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/gallery/architectural-arts.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/gallery/custom-woodwork.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/gallery/installation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/gallery/preconstruction-services.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/logo/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/logo/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/parallax/carpentry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/23rd-festival-of-the-trees/23rd-festival-of-the-trees-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bar-tanaka/bar-tanaka-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/bodega-south-beach/bodega-south-beach-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-3-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/garcia-residence/garcia-residence-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-3-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/guy-girl/guy-girl-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/hilton-fort-lauderdale-resort/hilton-ford-lauderdale-resort-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-7-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ilios-restaurant/ilios-restaurant-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/jahiro-residence/jahiro-residence-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-3-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/macias-residence/macias-residence-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/menin-hotels-office/menin-hotel-office-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-6-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/porfirio-restaurant/pofirio-restaurant-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-4-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ramos-residence/ramos-residene-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/ritz-carlton-palm-beach/ritz-carlon-palm-beach-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-hotel/shelborne-hotel-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/shelborne-lounge-bar/shelborne-lounge-bar-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/sheraton-four-points-hotel/sheraton-four-points-hotel-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/tapas-tintos-south-beach/tapas-tintos-south-beach-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-01-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-conrad-hotel/the-conrad-hotel-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-2-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/the-fillmore-miami-beach/the-filmore-miami-beach-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-1-400x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/projects/vesper-restaurant/vesper-restaurant-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/menin-hotel-office.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/preconstruction-services.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/shelborne-lounge-bar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/slide-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/the-conrad-hotel-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider-home/vesper-restaurant-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/slider/slider7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/team.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/team/julio-lee-project-manager.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/team/nelson-paredes-ceo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/team/role1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/team/role2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/author.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/b9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/blog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/blog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/c6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/ceo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hba3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hp3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hpp9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hps5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hs9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/hsb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/mock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p1-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p10-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p11-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p12-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p13-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p14-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p15-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p16-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p17-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p18-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p2-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p3-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p4-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p5-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p6-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p7-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p8-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p9-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/p9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/page-title.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/parallax5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pf9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp1-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp3-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp5-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp6-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp7-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-1-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-10-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-11-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-12-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-13-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-14-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-15-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-16-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-2-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-3-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-4-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-5-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-6-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-7-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-8-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-9-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/pp8-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs4-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/rs5-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slide-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slider-bubbles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/slider-woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/t4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/team5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/art/u4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/budicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-arrows@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-bag@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-basket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-basket@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-board.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-board@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-book@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-box@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-browser@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calculator@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-calendar@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-camera@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-card@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-clock@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-cloud@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-coffee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-coffee@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-comment@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-compas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-compas@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-count.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-count@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-disk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-disk@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-diskette.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-diskette@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-download@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-drop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-drop@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-film.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-film@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-flag@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-graph@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-heart@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-help.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-help@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-home@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-iu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-iu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-letter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-letter@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-lock@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-mail@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-money@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-music@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-news.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-news@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-notes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-notes@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-officephone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-officephone@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-openmail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-openmail@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-phone@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-photo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-photo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-portfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-portfolio@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-print@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-radio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-radio@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ribbon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-safe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-safe@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-search@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-shop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-shop@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-statistics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-statistics@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tablet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tablet@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ticket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-ticket@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-truck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-truck@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-tv@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-upload@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-user@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-view@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-voicemail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-voicemail@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-wallet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-wallet@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-weather@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-web.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-web@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-worldmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/icons/icon-worldmap@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/logo-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/logo-dark@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/map-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/timer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lignumcd/static/images/theme/zigzag.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -109,8 +698,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+            <state relative-caret-position="518">
+              <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -586,7 +1175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502202070415</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Modificated Branch">
+      <created>1502202240277</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1502202240277</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -603,8 +1199,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-241" y="-4" width="1922" height="1029" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -612,7 +1209,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3387978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15472127" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15409836" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -664,7 +1261,8 @@
     <MESSAGE value="Video Enhanced HD Quality" />
     <MESSAGE value="All -1" />
     <MESSAGE value="Added Balloon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Balloon" />
+    <MESSAGE value="Modificated Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificated Branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1065,8 +1663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        <state relative-caret-position="518">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
           <folding />
         </state>
       </provider>
