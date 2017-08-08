@@ -41,8 +41,8 @@ def validar(request):
     if request.method == 'POST':
         name = request.POST['name']
         email = request.POST['email']
-        departmen = request.POST['department']
-        tel = request.POST['tel']
+        department = request.POST['department']
+        phone = request.POST['phone']
         message = request.POST['message']
         send_mail(
             'Email from Web from: ' + name,
