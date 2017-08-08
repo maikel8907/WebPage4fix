@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="83281dd1-4e76-4f60-b5c2-22d1a50133db" name="Added Balloon" comment="" />
-    <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="">
+    <list default="true" id="6e57cccf-f487-4cc2-870a-66c1d82a51ce" name="Default" comment="Added Balloon">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery-migrate-1.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lignumcd/static/js/jquery.balloon.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -36,7 +39,7 @@
       <file leaf-file-name="frontend.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274890">
+            <state relative-caret-position="0">
               <caret line="18326" column="34" lean-forward="false" selection-start-line="18326" selection-start-column="34" selection-end-line="18326" selection-end-column="34" />
               <folding>
                 <marker date="1502201221679" expanded="true" signature="257351:257371" ph="..." />
@@ -96,7 +99,7 @@
       <file leaf-file-name="frontend.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lignumcd/static/css/frontend.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293055">
+            <state relative-caret-position="15">
               <caret line="19537" column="1" lean-forward="false" selection-start-line="19537" selection-start-column="1" selection-end-line="19537" selection-end-column="1" />
               <folding />
             </state>
@@ -106,8 +109,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="569">
+              <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -373,6 +376,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/maikel/PycharmProjects/Website/lignumcd/static/js/bootstrap.js" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/lignumcd/static/css/frontend.css" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -575,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502201999075</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added Balloon">
+      <created>1502202070415</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1502202070415</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -592,9 +603,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-241" y="-4" width="1922" height="1029" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,7 +673,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/2.html" />
     <entry file="file://$PROJECT_DIR$/templates/aa.html" />
     <entry file="file://$USER_HOME$/Downloads/aa.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -925,6 +934,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -963,7 +975,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lignumcd/static/js/frontend.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274890">
+        <state relative-caret-position="0">
           <caret line="18326" column="34" lean-forward="false" selection-start-line="18326" selection-start-column="34" selection-end-line="18326" selection-end-column="34" />
           <folding>
             <marker date="1502201221679" expanded="true" signature="257351:257371" ph="..." />
@@ -1023,6 +1035,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,9 +1047,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lignumcd/static/css/frontend.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293055">
+        <state relative-caret-position="15">
           <caret line="19537" column="1" lean-forward="false" selection-start-line="19537" selection-start-column="1" selection-end-line="19537" selection-end-column="1" />
           <folding />
         </state>
@@ -1044,8 +1065,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="569">
+          <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
           <folding />
         </state>
       </provider>
