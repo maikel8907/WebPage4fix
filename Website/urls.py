@@ -26,4 +26,5 @@ urlpatterns = [
     url(r'^testimonials/', testimonials, name='testimonials'),
     url(r'^clients/', clients, name='clients'),
     url(r'^contact/', contact, name='contact'),
+    url(r'^validar/$', validar, name="Validar"),
 ]

@@ -4,6 +4,8 @@
 {% block title %}
  <title>Lignum Custom Designs</title>
 {% endblock %}
+{% block head %}
+{% endblock %}
 {% block body %}
 <div class="light-wrapper">
         <div class="tp-fullscreen-container revolution" style="background-color: #0f0f0f" >
@@ -14,7 +16,7 @@
                              data-x="0"
                              data-y="0"
                              style="z-index: 1;">
-                            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLignumcustomdesign%2Fvideos%2F570488099777324%2F&width=960&show_text=false&height=494&autoplay=1&show=true&appId" width="860" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/O5EurpCSuDs?showinfo=0&rel=0&autoplay=1&mute=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
                         </div>
                     </li>
                 </ul>
@@ -25,42 +27,42 @@
         <div class="container-fluid" style="padding: 0;"><h3 class="main-title text-center no-line" style="background-color: #21262a;padding: 1em 0;margin: 0;color: #ececec;"><strong>Our Clients</strong></h3></div>
         <div class="container inner">
             <div class="carousel-wrapper">
-                <div class="carousel clients">
-                    <div class="first"><img src="{% static "/images/brands/the-breakers.png" %}" alt="THE BREAKERS"/></div>
-                    <div class="item"><img src="{% static "/images/brands/viceroy.png" %}" alt="VICEROY"/></div>
-                    <div class="item"><img src="{% static "/images/brands/hilton.png" %}" alt="Hilton"/></div>
-                    <div class="item"><img src="{% static "/images/brands/the-ritz-carlton.png" %}" alt="The Ritz-Carlton"/></div>
-                    <div class="item"><img src="{% static "/images/brands/live-nation.png" %}" alt="LIVE NATION"/></div>
-                    <div class="item"><img src="{% static "/images/brands/sanctuary-south-beach.png" %}" alt="Sanctuary South Beach" /></div>
-                    <div class="item"><img src="{% static "/images/brands/double-tree.png" %}" alt="Double Tree"/></div>
-                    <div class="item"><img src="{% static "/images/brands/mondrian.png" %}" alt="MONDRIAN"/></div>
-                    <div class="item"><img src="{% static "/images/brands/epic.png" %}" alt="EPIC. MIAMI A KIMPTON HOTEL"/></div>
-                    <div class="item"><img src="{% static "/images/brands/wyndham.png" %}" alt="WYNDHAM"/></div>
-                    <div class="item"><img src="{% static "/images/brands/menin-hotels.png" %}" alt="MENIN HOTELS"/></div>
-                    <div class="item"><img src="{% static "/images/brands/marriott.png" %}" alt="MARRIOTT"/></div>
-                    <div class="item"><img src="{% static "/images/brands/westing-hotel-resorts.png" %}" alt="Westing Hotel Resorts"/></div>
-                    <div class="item"><img src="{% static "/images/brands/the-fillmore.png" %}" alt="THE FILLMORE"/></div>
-                    <div class="item"><img src="{% static "/images/brands/four-points.png" %}" alt="FOUR POINTS"/></div>
-                    <div class="item"><img src="{% static "/images/brands/porfirios-restaurante.png" %}" alt="PORFIRIOS RESTAURANTE"/></div>
-                    <div class="item"><img src="{% static "/images/brands/add-inc.png" %}" alt="ADD Inc"/></div>
-                    <div class="item"><img src="{% static "/images/brands/asmayda.png" %}" alt="Asmayda"/></div>
-                    <div class="item"><img src="{% static "/images/brands/borges.png" %}" alt="Borges associates"/></div>
-                    <div class="item"><img src="{% static "/images/brands/crescent-heights.png" %}" alt="CRESCENT HEIGHTS"/></div>
-                    <div class="item"><img src="{% static "/images/brands/florida-international-university.png" %}" alt="FIU Florida International University"/></div>
-                    <div class="item"><img src="{% static "/images/brands/hospitality-desing-consultants.png" %}" alt="HDC Hospitality Desing Consultants"/></div>
-                    <div class="item"><img src="{% static "/images/brands/guyandgirl.png" %}" alt="GUYandGIRL"/></div>
-                    <div class="item"><img src="{% static "/images/brands/hitt.png" %}" alt="HITT"/></div>
-                    <div class="item"><img src="{% static "/images/brands/kobi-karp.png" %}" alt="KOBI KARP"/></div>
-                    <div class="item"><img src="{% static "/images/brands/wade-allyn-hallock.png" %}" alt="WADE ALLIYN HALOCK"/></div>
-                    <div class="item"><img src="{% static "/images/brands/mi-call.png" %}" alt="MiCal"/></div>
-                    <div class="item"><img src="{% static "/images/brands/stellar.png" %}" alt="STELLAR"/></div>
-                    <div class="item"><img src="{% static "/images/brands/staarchitectural-group.png" %}" alt="STAARCHITECTURAL GROUP"/></div>
-                    <div class="item"><img src="{% static "/images/brands/creme.png" %}" alt="CREME"/></div>
-                    <div class="item"><img src="{% static "/images/brands/dds.png" %}" alt="DSS"/></div>
-                    <div class="item"><img src="{% static "/images/brands/ibt.png" %}" alt="IBT"/></div>
-                    <div class="item"><img src="{% static "/images/brands/the-parker-company.png" %}" alt="THE PARKER COMPANY"/></div>
-                    <div class="item"><img src="{% static "/images/brands/claro.png" %}" alt="CLARO"/></div>
-                    <div class="item"><img src="{% static "/images/brands/weitz.png" %}" alt="WEITZ"/></div>
+                <div class="customer-logos">
+                    <div class="slide"><img src="{% static "/images/brands/the-breakers.png" %}" alt="THE BREAKERS"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/viceroy.png" %}" alt="VICEROY"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/hilton.png" %}" alt="Hilton"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/the-ritz-carlton.png" %}" alt="The Ritz-Carlton"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/live-nation.png" %}" alt="LIVE NATION"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/sanctuary-south-beach.png" %}" alt="Sanctuary South Beach" /></div>
+                    <div class="slide"><img src="{% static "/images/brands/double-tree.png" %}" alt="Double Tree"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/mondrian.png" %}" alt="MONDRIAN"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/epic.png" %}" alt="EPIC. MIAMI A KIMPTON HOTEL"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/wyndham.png" %}" alt="WYNDHAM"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/menin-hotels.png" %}" alt="MENIN HOTELS"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/marriott.png" %}" alt="MARRIOTT"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/westing-hotel-resorts.png" %}" alt="Westing Hotel Resorts"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/the-fillmore.png" %}" alt="THE FILLMORE"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/four-points.png" %}" alt="FOUR POINTS"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/porfirios-restaurante.png" %}" alt="PORFIRIOS RESTAURANTE"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/add-inc.png" %}" alt="ADD Inc"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/asmayda.png" %}" alt="Asmayda"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/borges.png" %}" alt="Borges associates"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/crescent-heights.png" %}" alt="CRESCENT HEIGHTS"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/florida-international-university.png" %}" alt="FIU Florida International University"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/hospitality-desing-consultants.png" %}" alt="HDC Hospitality Desing Consultants"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/guyandgirl.png" %}" alt="GUYandGIRL"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/hitt.png" %}" alt="HITT"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/kobi-karp.png" %}" alt="KOBI KARP"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/wade-allyn-hallock.png" %}" alt="WADE ALLIYN HALOCK"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/mi-call.png" %}" alt="MiCal"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/stellar.png" %}" alt="STELLAR"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/staarchitectural-group.png" %}" alt="STAARCHITECTURAL GROUP"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/creme.png" %}" alt="CREME"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/dds.png" %}" alt="DSS"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/ibt.png" %}" alt="IBT"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/the-parker-company.png" %}" alt="THE PARKER COMPANY"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/claro.png" %}" alt="CLARO"/></div>
+                    <div class="slide"><img src="{% static "/images/brands/weitz.png" %}" alt="WEITZ"/></div>
                 </div>
             </div>
         </div>

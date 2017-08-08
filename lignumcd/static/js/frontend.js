@@ -12364,7 +12364,7 @@ function revslider_showDoubleJqueryError(b) {
                 b.data("origindex", b.index())
             });
             if (R.shuffle == "on") {
-                var l = new Object, J = G.find(">ul:first-child >li:first-child");
+                var l = {}, J = G.find(">ul:first-child >li:first-child");
                 l.fstransition = J.data("fstransition");
                 l.fsmasterspeed = J.data("fsmasterspeed");
                 l.fsslotamount = J.data("fsslotamount");
@@ -14074,7 +14074,7 @@ function revslider_showDoubleJqueryError(b) {
         var bM = 1;
         var bW = 0;
         var bD = 0;
-        var bF = new Array;
+        var bF = [];
         if (bH.data("kenburns") == "on") {
             if (bV == "boxslide" || bV == 0 || bV == "boxfade" || bV == 1 || bV == "papercut" || bV == 16) {
                 bV = 11
@@ -15222,7 +15222,7 @@ function revslider_showDoubleJqueryError(b) {
         }
     };
     var ak = function () {
-        var a = new Object;
+        var a = {};
         a.x = 0;
         a.y = 0;
         a.rotationX = 0;
@@ -15291,7 +15291,7 @@ function revslider_showDoubleJqueryError(b) {
     };
     var az = function (b) {
         var d = b.split("animation:");
-        var c = new Object;
+        var c = {};
         c.animation = at(ak(), d[1]);
         var a = d[0].split(";");
         a2.each(a, function (h, g) {
@@ -16176,10 +16176,10 @@ function revslider_showDoubleJqueryError(b) {
                     }
                     var bw = bF.data("elementdelay") == aK ? 0 : bF.data("elementdelay");
                     F.ease = M.ease = bF.data("easing") == aK ? punchgs.Power1.easeInOut : bF.data("easing");
-                    M.data = new Object;
+                    M.data = {};
                     M.data.oldx = M.x;
                     M.data.oldy = M.y;
-                    F.data = new Object;
+                    F.data = {};
                     F.data.oldx = F.x;
                     F.data.oldy = F.y;
                     M.x = M.x * bu;
@@ -16243,8 +16243,8 @@ function revslider_showDoubleJqueryError(b) {
                             F.force3D = "auto";
                             if (ba.match("randomrotate") && a8 != bF) {
                                 for (var bA = 0; bA < a8.length; bA++) {
-                                    var X = new Object;
-                                    var bo = new Object;
+                                    var X = {};
+                                    var bo = {};
                                     a2.extend(X, M);
                                     a2.extend(bo, F);
                                     M.scale = Math.random() * 3 + 1;
@@ -16262,7 +16262,7 @@ function revslider_showDoubleJqueryError(b) {
                         }
                     }
                     bF.data("timeline", B);
-                    var bm = new Array;
+                    var bm = [];
                     if (bF.data("frames") != aK) {
                         var be = bF.data("frames");
                         be = be.replace(/\s+/g, "");
@@ -16699,7 +16699,7 @@ function revslider_showDoubleJqueryError(b) {
         if (g.animation.rotationZ != aK) {
             g.animation.rotation = g.animation.rotationZ
         }
-        g.animation.data = new Object;
+        g.animation.data = {};
         g.animation.data.oldx = g.animation.x;
         g.animation.data.oldy = g.animation.y;
         g.animation.x = g.animation.x * f;
@@ -16775,7 +16775,7 @@ function revslider_showDoubleJqueryError(b) {
                     v.x = -270
                 }
             }
-            v.data = new Object;
+            v.data = {};
             v.data.oldx = v.x;
             v.data.oldy = v.y;
             v.x = v.x * g;
@@ -16819,7 +16819,7 @@ function revslider_showDoubleJqueryError(b) {
                         overwrite: "auto"
                     })
                 };
-                v.data = new Object;
+                v.data = {};
                 v.data.oldx = v.x;
                 v.data.oldy = v.y;
                 v.x = v.x * g;
@@ -17053,7 +17053,7 @@ function revslider_showDoubleJqueryError(b) {
         if (Q < 1) {
             Q = 1
         }
-        var a = new Object;
+        var a = {};
         a.w = parseInt(C.split(" ")[0], 0), a.h = parseInt(C.split(" ")[1], 0);
         var j = false;
         if (C.split(" ")[2] == "1") {
@@ -17133,7 +17133,7 @@ function revslider_showDoubleJqueryError(b) {
         })
     };
     var au = function (f, b, g, d, a) {
-        var c = new Object;
+        var c = {};
         if (!a) {
             c.w = parseInt(g.split(" ")[0], 0) / 100
         } else {
@@ -18089,10 +18089,10 @@ function revslider_showDoubleJqueryError(b) {
     a(".carousel-boxed").owlCarousel({
         loop: false,
         margin: 30,
-        nav: true,
+        nav: false,
         navText: ["", ""],
         dots: false,
-        responsive: {0: {items: 1}, 768: {items: 2}, 992: {items: 3}}
+        responsive: {0: {items: 1}, 768: {items: 4}, 992: {items: 4}}
     });
     a(".carousel-boxed2").owlCarousel({
         loop: false,
@@ -18118,7 +18118,7 @@ function revslider_showDoubleJqueryError(b) {
         loop: true,
         margin: 20,
         nav: false,
-        interval:0,
+        interval: 500,
         dots: false,
         responsive: {0: {items: 3}, 768: {items: 5}, 1200: {items: 6}}
     });
@@ -18129,7 +18129,7 @@ function revslider_showDoubleJqueryError(b) {
         margin: 0,
         nav: false,
         dots: false,
-        items: 1
+        items: 4
     });
     a(".basic-slider").owlCarousel({items: 1, nav: true, navText: ["", ""], dots: true, loop: true, margin: 0});
     a(".basic-carousel").owlCarousel({
