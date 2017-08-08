@@ -60,3 +60,4 @@ target/
 .pydevproject
 lignumcd/static
 db.sqlite3
+.idea/dataSources/
