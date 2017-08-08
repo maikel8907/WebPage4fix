@@ -61,3 +61,4 @@ target/
 lignumcd/static/images/*
 db.sqlite3
 .idea
+lignumcd/static/images/

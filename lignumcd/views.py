@@ -51,4 +51,4 @@ def validar(request):
             ['admin@mail.com'],
             fail_silently=False,
         )
-    return JsonResponse({'sendSuccess': 'OK'})
+    return JsonResponse({'result': 'OK'})
