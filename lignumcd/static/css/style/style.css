@@ -4210,7 +4210,7 @@ footer .newsletter-wrapper .newsletter-form .btn {
 /*-----------------------------------------------------------------------------------*/
 /*	34. RESPONSIVE
 /*-----------------------------------------------------------------------------------*/
-@media (max-width: 1080px) {
+@media (max-width: 1600px) {
 	.fullscreen-portfolio .isotope .item,
 	.fullscreen-portfolio .isotope .grid-sizer {
 	    width: 25%

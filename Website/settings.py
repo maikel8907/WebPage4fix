@@ -24,7 +24,7 @@ SECRET_KEY = 'k@5&0(+sdjyphy5=8%eb_qs9fc1+dw)cjbx(ywr_xv!qncug4l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.lignumcd.com', 'lignumcd.com']
+ALLOWED_HOSTS = ['www.lignumcd.com', 'lignumcd.com', 'localhost']
 
 # Application definition
 
