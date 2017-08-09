@@ -45,10 +45,10 @@ def validar(request):
         tel = request.POST['tel']
         message = request.POST['message']
         send_mail(
-            'Email from Web from: ' + name,
+            'Email lignumcd.com from: ' + name,
             message,
             [email],  # FROM
-            ['admin@mail.com'],
+            ['info@lignumcd.com'],
             fail_silently=False,
         )
     return JsonResponse({'result': 'OK'})

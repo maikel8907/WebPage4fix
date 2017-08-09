@@ -128,7 +128,11 @@ STATIC_URL = '/static/'
 #TEMPLATE_DIRS = (os.path.join(BASE_DIR,  'templates'),)
 
 
-EMAIL_HOST = 'localhost'
-EMAIL_PORT = 8025
+EMAIL_USE_SSL = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 465
+EMAIL_HOST_USER = 'info@lignumcd.com'
+EMAIL_HOST_PASSWORD = 'nilo2015'
+
 
 #python -m smtpd -n -c DebuggingServer localhost:8025
