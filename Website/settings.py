@@ -15,7 +15,6 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
@@ -26,7 +25,6 @@ SECRET_KEY = 'k@5&0(+sdjyphy5=8%eb_qs9fc1+dw)cjbx(ywr_xv!qncug4l'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -54,7 +52,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'Website.urls'
 
-INTERNAL_IPS = ('127.0.0.1', )
+INTERNAL_IPS = ('127.0.0.1',)
 
 TEMPLATES = [
     {
@@ -67,14 +65,13 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-				'lignumcd.contex_processor.url',
+                'lignumcd.contex_processor.url',
             ],
         },
     },
 ]
 
 WSGI_APPLICATION = 'Website.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
@@ -85,7 +82,6 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
@@ -105,7 +101,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
@@ -119,17 +114,16 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static', 'static')
 
-MEDIA_ROOT = '/media/'
 MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'static', 'media')
 
-#TEMPLATE_DIRS = (os.path.join(BASE_DIR,  'templates'),)
+# TEMPLATE_DIRS = (os.path.join(BASE_DIR,  'templates'),)
 
 
 EMAIL_USE_SSL = True
@@ -139,4 +133,4 @@ EMAIL_HOST_USER = 'info@lignumcd.com'
 EMAIL_HOST_PASSWORD = 'nilo2015'
 
 
-#python -m smtpd -n -c DebuggingServer localhost:8025
+# python -m smtpd -n -c DebuggingServer localhost:8025

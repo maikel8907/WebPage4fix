@@ -19529,14 +19529,9 @@ footer a:hover {
     background: #358dbc
 }
 
-.navbar .navbar-nav > li > a:focus, .navbar .nav > li > a:hover {
+.navbar .navbar-nav > li > a:focus, .navbar .nav > li > a:hover .navbar .nav > li.current > a{
     color: #358dbc !important
 }
-
-.navbar .nav > li.current > a {
-    color: #358dbc !important
-}
-
 
 .navbar .dropdown-menu li a:hover, .navbar .dropdown-menu li a.active {
     color: #4aa2d1 !important

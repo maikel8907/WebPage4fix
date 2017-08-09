@@ -973,6 +973,7 @@ footer ul.circled li:before {
 }
 .navbar.fixed .dropdown-menu:not(.yamm-dropdown-menu) li {
     background: rgba(31,33,36,0.95)
+
 }
 .btn.responsive-menu {
     padding: 7px 0 0 0;

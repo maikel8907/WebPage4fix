@@ -4,13 +4,14 @@ from django.shortcuts import render
 from django.core.mail import send_mail
 from django.contrib import messages
 from django.http import JsonResponse
+from django.shortcuts import redirect
 
 
 # Create your views here.
 
 
 def index(request):
-    return render(request, "index.html")
+    return redirect(home)
 
 
 def home(request):
@@ -45,10 +46,10 @@ def validar(request):
         tel = request.POST['tel']
         message = request.POST['message']
         send_mail(
-            'Email lignumcd.com from: ' + name,
+            'Email from Web from: ' + name,
             message,
             [email],  # FROM
-            ['info@lignumcd.com'],
+            ['admin@mail.com'],
             fail_silently=False,
         )
     return JsonResponse({'result': 'OK'})
