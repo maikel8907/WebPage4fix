@@ -18205,7 +18205,7 @@ $(document).ready(function () {
     $("#home-tp-fullscreen").revolution({
         delay: 300000,
         startwidth: 1170,
-        startheight: 750,
+        startheight: 770,
         hideThumbs: 200,
         hideArrowsOnMobile: "off",
         fullWidth: "on",

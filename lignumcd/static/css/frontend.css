@@ -15438,7 +15438,8 @@ footer ul.circled li:before {
 .tp-fullwidth-container, .tp-fullscreen-container, .tp-banner-container {
     width: 100% !important;
     position: relative;
-    padding: 0
+    padding: 0;
+
 }
 
 .revolution {
@@ -15446,7 +15447,7 @@ footer ul.circled li:before {
 }
 
 .revolution ul {
-    display: none;
+    display: block !important;
     margin: 0;
     list-style: none
 }
